@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Priscila 👋
+Senior Product Designer who codes. For 10+ years I've designed complex products in FinTech, AI, and crypto, and I make them feel simple for the people who use them.
 
-<!--
-**prickie/prickie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 I design AI and data-heavy products, from real-time dashboards and ML-powered tools to decision workflows people can trust.
+📈 I'm an active trader across equities, options, futures, and crypto. I build market scanners, backtests, and on-chain analytics.
+🏦 I deliver ADA compliance (WCAG) and design in regulated banking and KYC environments.
+🔐 I'm exploring post-quantum cryptography and helping organizations assess their quantum risk.
+What I work with
+Figma · Python · APIs (REST, JSON) · LLM workflows · Tableau · TradingView · Design systems
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Find me
+Portfolio: sorenson-group.com
+LinkedIn: linkedin.com/in/priscilasorenson
+Email: priscila.sorenson@gmail.com
