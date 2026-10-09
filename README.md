@@ -5,7 +5,8 @@ Senior Product Designer who codes. For 10+ years I've designed complex products 
 📈 I'm an active trader across equities, options, futures, and crypto. I build market scanners, backtests, and on-chain analytics.
 🏦 I deliver ADA compliance (WCAG) and design in regulated banking and KYC environments.
 🔐 I'm exploring post-quantum cryptography and helping organizations assess their quantum risk.
-What I work with
+
+What I work with:
 Figma · Python · APIs (REST, JSON) · LLM workflows · Tableau · TradingView · Design systems
 
 Find me
