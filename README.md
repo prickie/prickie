@@ -13,4 +13,3 @@ Figma · Python · APIs (REST, JSON) · LLM workflows · Tableau · TradingView 
 ### Find me
 - Portfolio: [sorenson-group.com](https://www.sorenson-group.com)
 - LinkedIn: [linkedin.com/in/priscilasorenson](https://www.linkedin.com/in/priscilasorenson)
-- Email: priscila.sorenson@gmail.com
